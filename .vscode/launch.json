@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GerenciadorFuncionarioApplication<gerenciador_funcionario>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "edu.medicina.preventiva.funcionario.gerenciador_funcionario.GerenciadorFuncionarioApplication",
+            "projectName": "gerenciador_funcionario",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
